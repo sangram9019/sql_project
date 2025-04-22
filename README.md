@@ -12,7 +12,7 @@
 
     `i>cd C:\\xampp\htdocs\`
 
-   ` ii>git clone https://github.com/sreenandha24/Student-Result-Management-System-sqlproject.git`
+   ` ii>`
 
 4. Open the Link http://localhost/phpmyadmin (or) http://127.0.0.1/phpmyadmin in any Web Browser on your Computer
 
@@ -42,12 +42,3 @@ Having Trouble Installing XAMPP? Check out the Demo Video 👉[Click Here](https
 
 
 
-## Team
-
-**Sree Nandha -** _@sreenandha24_
-
-**Vignesh** -@vignes807
-
-**Sree Dharshan -** _@sreedharshan_
-
-**Athish -** _@vpathish_
