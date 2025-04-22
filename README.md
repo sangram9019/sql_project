@@ -12,7 +12,7 @@
 
     `i>cd C:\\xampp\htdocs\`
 
-   ` ii>`
+   ` ii>https://github.com/sangram9019/sql_project.git`
 
 4. Open the Link http://localhost/phpmyadmin (or) http://127.0.0.1/phpmyadmin in any Web Browser on your Computer
 
